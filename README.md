@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/programador_alt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/programador_alt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/programador_alt)
 
 ## I'm a Developer, and Student!!
 
@@ -8,9 +8,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute with one Open Source projects
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ruan Spotify Playing" width="450" />](https://open.spotify.com/user/mastercrazzy?si=462d885b4cf147e0)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ruan Spotify Playing" width="450" />](https://open.spotify.com/user/mastercrazzy?si=462d885b4cf147e0) -->
 
 ### Connect with me:
 
