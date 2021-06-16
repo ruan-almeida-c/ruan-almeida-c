@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/programador_alt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/programador_alt)
+[![Twitter Follow](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fruanalmeidac%2F-LINKEDIN-blue)](https://www.linkedin.com/in/ruanalmeidac/)
 
 ## I'm a Developer, and Student!!
 
