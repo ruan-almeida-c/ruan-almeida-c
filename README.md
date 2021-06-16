@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/programador_alt)
 
 ## I'm a Developer, and Student!!
 
@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/mastercrazzy?si=462d885b4cf147e0)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ruan Spotify Playing" width="450" />](https://open.spotify.com/user/mastercrazzy?si=462d885b4cf147e0)
 
 ### Connect with me:
 
