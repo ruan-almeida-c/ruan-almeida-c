@@ -20,13 +20,13 @@
 ### Languages and Tools:
 
 [<img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudioCode]
-[<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html5]
-[<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][css]
-[<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javaScript]
-[<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
-[<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="center" alt="HTML5" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html5]
+[<img align="center" alt="CSS3" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][css]
+[<img align="center" alt="JavaScript" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javaScript]
+[<img align="center" alt="React" height="30" width="40"  margin-left="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
+[<img align="center" alt="Node.js" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="center" alt="SQL" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="center" alt="Python" height="30" width="40" margin-left="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="center" alt="Terminal" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
 
